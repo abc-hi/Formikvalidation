@@ -1,0 +1,31 @@
+.container{
+    width: 420px;
+  height: 400px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  display: flex;
+
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:mediumspringgreen;
+  
+}
+
+.navbar-container{
+  width: 14846x;
+  height: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  display: flex;
+  background-color:black;
+text-align: center;
+
+
+  
+}
